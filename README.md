@@ -6,7 +6,7 @@
 
 ## 使用步骤
 ```
-git clone https://github.com/avakpan/frontend-15-vue-template.git 你自己的项目名称
+git clone git@github.com:horseBrother2017/webpack-vue-template.git 你自己的项目名称
 cd 你的项目名称
 npm install
 npm start
